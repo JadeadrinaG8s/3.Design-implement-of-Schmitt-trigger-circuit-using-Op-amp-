@@ -1,5 +1,5 @@
 # 3.Design-implement-of-Schmitt-trigger-circuit-using-Op-amp
-**AIM:**
+**Aim:**
 To design and implement Schmitt-trigger-circuit-using-Op-amp
 
 **APPARATUS  and SOFTWARE REQUIRED:**

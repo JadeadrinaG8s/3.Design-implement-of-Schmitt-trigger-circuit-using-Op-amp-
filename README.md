@@ -2,7 +2,7 @@
 **Aim:**
 To design and implement Schmitt-trigger-circuit-using-Op-amp
 
-**APPARATUS  and SOFTWARE REQUIRED:**
+**APPARATUS REQUIRED:**
 S.No	Name of the Apparatus	Range	Quantity
 1.	Function Generator	3 MHz	1
 2.	DSO	30 MHz	1

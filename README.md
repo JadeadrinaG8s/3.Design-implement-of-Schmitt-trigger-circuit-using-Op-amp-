@@ -43,6 +43,9 @@ R2=39 KΩ
   **MODEL GRAPH:**
   **TABULATION:**
  <img width="900" height="1600" alt="WhatsApp Image 2026-09-12 at 8 43 20 PM" src="https://github.com/user-attachments/assets/7737cca1-f4b3-4c7a-8c86-c171fe7c69f2" />
+**graph**
+
+<img width="3072" height="4080" alt="1000123222" src="https://github.com/user-attachments/assets/449c9d04-a504-43ab-84e7-63f0d468d7ef" />
 
 **RESULT:**
 Thus a Schmitt trigger is designed and tested using op-amp IC 741.
